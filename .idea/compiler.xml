@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-common" />
+        <module name="microservice-config-server-4001" />
+        <module name="microservice-eureka-server-2001" />
+        <module name="microservice-eureka-server-2002" />
+        <module name="microservice-eureka-server-2003" />
+        <module name="microservice-student-consumer-1001" />
+        <module name="microservice-student-consumer-feign-80" />
+        <module name="microservice-student-consumer-hystrix-dashboard-90" />
+        <module name="microservice-student-consumer-hystrix-turbine-91" />
+        <module name="microservice-student-provider-1001" />
+        <module name="microservice-student-provider-1002" />
+        <module name="microservice-student-provider-1003" />
+        <module name="microservice-student-provider-hystrix-1004" />
+        <module name="microservice-student-provider-hystrix-1005" />
+        <module name="microservice-zuul-3001" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
