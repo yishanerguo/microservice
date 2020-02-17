@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: application-dev
+  cloud:
+    config:
+      name: crm # name: application
+      uri: http://configserver.wangshao.com:4001  #配置configserver地址
+      profile: dev # 级别
+      label: master #分支 git中默认master
+      fail-fast: true
