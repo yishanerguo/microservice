@@ -12,6 +12,7 @@
         <module name="microservice-eureka-server-2001" />
         <module name="microservice-eureka-server-2002" />
         <module name="microservice-eureka-server-2003" />
+        <module name="microservice-eureka-server-config-2004" />
         <module name="microservice-student-consumer-1001" />
         <module name="microservice-student-consumer-feign-80" />
         <module name="microservice-student-consumer-hystrix-dashboard-90" />
@@ -19,6 +20,7 @@
         <module name="microservice-student-provider-1001" />
         <module name="microservice-student-provider-1002" />
         <module name="microservice-student-provider-1003" />
+        <module name="microservice-student-provider-config-1004" />
         <module name="microservice-student-provider-hystrix-1004" />
         <module name="microservice-student-provider-hystrix-1005" />
         <module name="microservice-zuul-3001" />

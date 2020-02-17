@@ -23,6 +23,8 @@
         <module>microservice-zuul-3001</module>
         <module>microservice-config-server-4001</module>
         <module>microservice-config-client-5001</module>
+        <module>microservice-eureka-server-config-2004</module>
+        <module>microservice-student-provider-config-1004</module>
     </modules>
     <packaging>pom</packaging>
 
