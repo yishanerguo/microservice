@@ -22,6 +22,7 @@
         <module>microservice-student-consumer-hystrix-turbine-91</module>
         <module>microservice-zuul-3001</module>
         <module>microservice-config-server-4001</module>
+        <module>microservice-config-client-5001</module>
     </modules>
     <packaging>pom</packaging>
 
