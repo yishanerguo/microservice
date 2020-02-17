@@ -8,4 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/yishanerguo/test
+          uri: https://gitee.com/yishanerguo/test
+          skip-ssl-validation: true
