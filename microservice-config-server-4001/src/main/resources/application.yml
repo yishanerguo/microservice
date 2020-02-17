@@ -10,3 +10,6 @@ spring:
         git:
           uri: https://gitee.com/yishanerguo/test
           skip-ssl-validation: true
+          search-paths:
+            -aaa
+            -bbb
